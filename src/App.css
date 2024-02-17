@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+.header > img{
+ width: 1.5rem;
+ height: 100%;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 2rem;
+    
+    background-color: blueviolet;
+    
+}
+.header > ul{
+   display: flex; 
+   
+   height: 100%;
+}
+.header > ul > li{
+    margin: 0 1.5rem;
+    list-style-type: none;
+    
+}
+.header > ul >button{
+    height: 100%;
+    margin: 0 1.5rem;
+}
+.filter{
+    margin: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.cards {
+   background-color: rgb(182, 180, 180);
+   width: 10rem;
+   margin: 0 1rem 1rem 0;
+   border-radius: 0.5rem;
+    word-wrap: break-word;
+
+   
+}
+.cards:hover{
+    cursor : pointer;
+}
+.cards > img{
+    width: 100%;
+    height: 100px;
+}
+.cardList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.user{
+ border: 1px solid black;
+ background-color: #f0f0f0;
+ padding: .3rem;
+ margin: .3rem 0;
+ 
+}
+.user > img{
+   height: 250px;
+   width: 20%;
+}
+.category{
+    cursor: pointer;
+} */
